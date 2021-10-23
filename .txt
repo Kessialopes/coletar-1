@@ -1,0 +1,9 @@
+yarn create next-app coletar
+
+yarn add -D eslint-plugin-react-hooks
+
+yarn add prettier eslint-config-prettier eslint-plugin-prettier -D > após => yarn eslint --init
+
+yarn add styled-components
+
+yarn add axios
